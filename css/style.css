@@ -95,10 +95,9 @@ header {
 
 }
 .banner_content p {
-  color: #cacbcc;
   font-family: sans-serif;
   font-size: 67%;
-  color: white;
+  color: #cacbcc;
   line-height: 190%;
   margin-top: 0;
   word-spacing: 4px;
@@ -236,7 +235,7 @@ header {
 }
 .address table {
     font-family: sans-serif;
-    font-size: 12px;
+    font-size: 50%;
 }
 
 
@@ -365,7 +364,7 @@ footer{
 .footer_menu ul li a {
     font-family: sans-serif;
     font-size: 55%;
-    color: white;
+    color: #cacbcc;
     padding: 12px;
     text-decoration: none;
     transition: 0.3s;
